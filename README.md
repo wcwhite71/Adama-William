@@ -8,6 +8,8 @@
 
    - Check if Palindrome - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
+   - Chat translator for Whatsapp -- can make one much better than Google translate :laughing:
+
 ### Algorithms
 
   - Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort
@@ -17,6 +19,12 @@
   - Budget Tracker - Write an application that keeps track of a household’s budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. Optional: Allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.
 
   - SQL Query Analyzer - A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
+
+  ### Graphics / Multimedia
+
+    - Stream Music from Online - Try to create your own online streaming music player.
+
+    - Slide Show - Make an application that shows various pictures in a slide show format.
 
 ### Networking
 
