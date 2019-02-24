@@ -20,11 +20,11 @@
 
   - SQL Query Analyzer - A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
-  ### Graphics / Multimedia
+### Graphics / Multimedia
 
-    - Stream Music from Online - Try to create your own online streaming music player.
+  - Stream Music from Online - Try to create your own online streaming music player.
 
-    - Slide Show - Make an application that shows various pictures in a slide show format.
+  - Slide Show - Make an application that shows various pictures in a slide show format.
 
 ### Networking
 
