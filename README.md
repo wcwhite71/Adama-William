@@ -8,7 +8,7 @@
 
    - Check if Palindrome - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-   - Chat translator for Whatsapp -- can make one much better than Google translate :laughing:
+   - Chat translator for Whatsapp -- can make one much better than Google translate :laughing:, yes we can talk about that but can try to provide different feature whatsapp doesnt have so it can be interesting.
 
 ### Algorithms
 
