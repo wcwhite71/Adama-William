@@ -39,13 +39,13 @@ Back-end: php, mysql
 
 ---------------------------------------------------------**************-----------------------------------------------------------
 
-II-1 -Project Name: ConnectApp, FindApp etc...
-II-2 Project Goal and Short Description : This application will serve as a reference to users wherever he or she is, to have access to information that he or she wants. It's a kind of pool in which everyone will have what they want.
+### II-1 -Project Name: ConnectApp, FindApp etc...
+### II-2 Project Goal and Short Description : This application will serve as a reference to users wherever he or she is, to have access to information that he or she wants. It's a kind of pool in which everyone will have what they want.
 Once we launch the site we will have the following steps:
 1- First step: We will have in front of us a search bar in which we can type the thing we want to load, this bar is automatically linked to our database which will provide information quickly.
 2- Second Steps: There will be categories of research such as: Education or training centers, insurance or health care, government offices, restaurant or supermarket, car wash or dyer, beauty or haircut, Phone or PC Repair, Auto or Car Repair etc. All its categories will be in the form of icons.
 2- Step Three: If we choose Phone or PC Repair we will be able to reach the companies that are subscribed to our application to open an online booking or to create an Online Ticket in relation to the availability of the company in question. .
 Note: After having discussed all the possibilities of scenario concerning the project, we will contact organizations and ask their opinions on that for their ideas too.
 In short I wanted to give a brief idea on this project so that we can have a meeting above to discuss it.
-II-3 - Platfform and Technology: Web App for a beginning and Mobile App can be the main environments. 
+### II-3 - Platfform and Technology: Web App for a beginning and Mobile App can be the main environments. 
 
