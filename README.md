@@ -1,4 +1,3 @@
-# Adama-William
 
 ## I-1. Project name ideas:
 
